@@ -31,6 +31,7 @@ export default function Home() {
           image="bg-[url(https://mgl.gogo.mn/newsn/story/1-68b67b30999aa325421575.jpg)]"
         ></Story>
       </div>
+      <div></div>
     </div>
   );
 }
